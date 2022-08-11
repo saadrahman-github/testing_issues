@@ -2,3 +2,6 @@
 --> Latest :: Changed File From Remote Repository .
 #Now Adding Line From the Local Repository.
 --> Latest 2 :: Adding Lines from Remote and will try to push from local Repository.
+
+#Tried To push to Remote Rep ... Got Error [Rejected] ... \
+#Then First i Pulled From Remote Repo and now Writing kahani ,,,,will again push changes.
