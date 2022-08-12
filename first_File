@@ -20,3 +20,5 @@ Latest :: Switched to Branch featuer-two ,, and commiting it
 ---> feature 3 addition
 ---> feature 3 (commit 2)
 git added by master (1)
+added new commit 1 in feature-one
+added new commit 2 in feature-one
